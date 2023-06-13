@@ -1,0 +1,74 @@
+@charset "utf-8"
+/* CSS Document */
+
+        span{color: rgba (61,95,90);}
+        .pozadina{ background-color: gray;}
+
+.paragraf_2{font-size: 20px;
+                        }	
+a:link{text-align: center;}
+
+
+@font-face  {
+font-family: "myFirstFont";
+   src: url(MonikaMiletic.ttf);
+}
+
+div {font-family: myFirstFont;}
+
+
+p{
+	color: rgba (61,95,90);
+	font-family: "Cinzel", sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 700px;
+	background-color: #C3D3D6
+	padding: 10px
+	}
+	
+p2{
+	color: rgba (61,55,90);
+	font-family: "Cinzel", sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 300px;
+	background-color: #C3D3D6
+	padding: 10px
+}
+
+p3{
+	color: rgba (61,95,90);
+	font-family: "Cinzel", cursive; , "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 300px;
+	background-color: ;
+	padding: 10px
+	border: 2px solid rgba
+	}
+
+h1{
+	font-family: "myFirstFont", "sans-serif"
+	color: rgba (61,95,90)
+    }	
+	
+h2, h3{
+	    font-family: "Cinzel", serif;
+	    color: rgba (61,95,90)
+        } 
+		
+.drugapozadina {background-color:yellow}	
+
+a:link {
+	            font-family: "Cinzel", serif;
+				color: black;
+				background-color: ;
+				padding: 5px;
+				line-height: 40px;
+				border: 1px solid #000000;	
+                }	
+
+a:hover {background-color: #A3C5CC;}
+
+		
